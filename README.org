@@ -1,5 +1,35 @@
 *** TCP/IP Model
 **** Application Layer
+***** TODO BGP
+***** TODO DHCP
+***** TODO DNS
+DNS is distributed and hierarchical.
+[[https://s.hswstatic.com/gif/dns-rev-1.gif]]
+[[https://d1.awsstatic.com/Route53/how-route-53-routes-traffic.8d313c7da075c3c7303aaef32e89b5d0b7885e7c.png]]
+[[https://blog.leadfeeder.com/assets/posts/reverse-dns-10318efd5ff76bc98431599cdb2971cc83a545a2571240603079f616b2bff38f.png]]
+[[https://startbloggingonline.com/wp-content/uploads/2018/06/dns-hosting-2-638.jpg]]
+[[https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Example_of_an_iterative_DNS_resolver.svg/400px-Example_of_an_iterative_DNS_resolver.svg.png]]
+[[https://www.dk-hostmaster.dk/sites/default/files/2016-11/What-is-DNS.PNG]]
+[[https://cdn.networklessons.com/wp-content/uploads/2015/07/xdns-hierarchy.png.pagespeed.a.ic.L2-ZeImxaw.webp]]
+***** TODO FTP
+***** TODO HTTP
+***** TODO IMAP
+***** TODO LDAP
+***** TODO MGCP
+***** TODO MQTT
+***** TODO NNTP
+***** TODO POP
+***** TODO ONC/RPC
+***** TODO RTP
+***** TODO RTSP
+***** TODO RIP
+***** TODO SIP
+***** TODO SMTP
+***** TODO SNMP
+***** TODO SSH
+***** TODO Telnet
+***** TODO TLS/SSL
+***** TODO XMPP
 **** Transport Layer
 **** Internet Layer
 **** Network Access Layer
